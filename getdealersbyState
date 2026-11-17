@@ -1,0 +1,2 @@
+curl -X GET http://127.0.0.1:8000/djangoapp/get_dealers/Kansas
+[{"id": 3, "city": "Topeka", "state": "Kansas", "st": "KS", "address": "123 Prairie Ave", "zip": "66603", "lat": 39.0473, "long": -95.6752, "short_name": "Sub-Ex", "full_name": "Sub-Ex Car Dealership"}, {"id": 4, "city": "Wichita", "state": "Kansas", "st": "KS", "address": "456 Sunflower Blvd", "zip": "67202", "lat": 37.6872, "long": -97.3301, "short_name": "Solarbreeze", "full_name": "Solarbreeze Car Dealership"}]

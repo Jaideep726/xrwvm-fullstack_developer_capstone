@@ -1,0 +1,2 @@
+curl -X GET http://127.0.0.1:8000/djangoapp/get_reviews/15
+[{"id": 1, "name": "Berkly Welds", "dealership": 15, "review": "Great customer service and fantastic car selection!", "purchase": true, "purchase_date": "02/19/2023", "car_make": "Audi", "car_model": "A6", "car_year": 2021, "sentiment": "positive"}]
